@@ -1,0 +1,1 @@
+ npx wdio run ./wdio.conf.js --spec .\test\specs\test2.e2e.js
